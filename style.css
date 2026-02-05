@@ -1,6 +1,6 @@
 Change the background of the entire visible page */
 body {
-    background-color: #ffafcc; /* very light grey; */
+    background-color: #f580ad; /* light pink; */
 }
 
 /* Style for all paragraphs */
@@ -13,5 +13,5 @@ p {
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
-    border: 2px #d3b5e4; /* Adds an blue border around the heading */
-    padding: 10px; /* Adds space inside the border */
+    border: 2px #ca85f2; /* Adds an pink border around the heading */
+    padding: 5px; /* Adds space inside the border */
